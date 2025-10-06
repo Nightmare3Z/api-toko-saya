@@ -1,0 +1,23 @@
+[
+{
+"kode": "BRG001",
+"nama": "Buku Tulis A5",
+"satuan": "pcs",
+"hargabeli": 5000,
+"hargajual": 7500
+},
+{
+"kode": "BRG002",
+"nama": "Pulpen Gel Pilot",
+"satuan": "pcs",
+"hargabeli": 2500,
+"hargajual": 4000
+},
+{
+"kode": "SSD001",
+"nama": "Samsung SSD 970 EVO 1TB",
+"satuan": "unit",
+"hargabeli": 1200000,
+"hargajual": 1500000
+}
+]
